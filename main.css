@@ -1,0 +1,15 @@
+.css-classes h1{
+    border-color: darkred;
+    font-size: 18px;
+   }
+
+body{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: darkblue;
+    }
+    
+    .example2 img{
+        width: 400px;
+        height: 400px;
+       }
